@@ -1,0 +1,22 @@
+[
+    { "brand": "Yamaha", "model": "YZF-R3", "cc": 321 },
+    { "brand": "Kawasaki", "model": "Ninja 400", "cc": 399 },
+    { "brand": "Honda", "model": "CBR500R", "cc": 471 },
+    { "brand": "Suzuki", "model": "GSX250R", "cc": 248 },
+    { "brand": "BMW", "model": "G310R", "cc": 313 },
+    { "brand": "KTM", "model": "RC 390", "cc": 373 },
+    { "brand": "Ducati", "model": "Panigale V2", "cc": 955 },
+    { "brand": "Harley-Davidson", "model": "Iron 883", "cc": 883 },
+    { "brand": "Indian", "model": "Scout", "cc": 1133 },
+    { "brand": "Triumph", "model": "Street Triple", "cc": 765 },
+    { "brand": "Yamaha", "model": "MT-07", "cc": 689 },
+    { "brand": "Honda", "model": "CB500X", "cc": 471 },
+    { "brand": "Suzuki", "model": "V-Strom 650", "cc": 645 },
+    { "brand": "BMW", "model": "F 900 R", "cc": 895 },
+    { "brand": "Kawasaki", "model": "Versys 650", "cc": 649 },
+    { "brand": "Honda", "model": "CRF450L", "cc": 449 },
+    { "brand": "KTM", "model": "390 Duke", "cc": 373 },
+    { "brand": "Royal Enfield", "model": "Himalayan", "cc": 411 },
+    { "brand": "Harley-Davidson", "model": "Sportster 1200", "cc": 1200 },
+    { "brand": "MV Agusta", "model": "F3 800", "cc": 798 }
+]
